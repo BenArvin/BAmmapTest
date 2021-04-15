@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E43FB77E26285C1400C8F428 /* test.txt in Resources */ = {isa = PBXBuildFile; fileRef = E43FB77D26285C1400C8F428 /* test.txt */; };
 		E49C19F9261F513F00300AD2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E49C19F8261F513F00300AD2 /* AppDelegate.m */; };
 		E49C19FC261F513F00300AD2 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E49C19FB261F513F00300AD2 /* SceneDelegate.m */; };
 		E49C19FF261F513F00300AD2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E49C19FE261F513F00300AD2 /* ViewController.m */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E43FB77D26285C1400C8F428 /* test.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test.txt; sourceTree = "<group>"; };
 		E49C19F4261F513F00300AD2 /* BAmmapTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BAmmapTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E49C19F7261F513F00300AD2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E49C19F8261F513F00300AD2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 				E49C19FB261F513F00300AD2 /* SceneDelegate.m */,
 				E49C19FD261F513F00300AD2 /* ViewController.h */,
 				E49C19FE261F513F00300AD2 /* ViewController.m */,
+				E43FB77D26285C1400C8F428 /* test.txt */,
 				E49C1A00261F513F00300AD2 /* Main.storyboard */,
 				E49C1A03261F514000300AD2 /* Assets.xcassets */,
 				E49C1A05261F514000300AD2 /* LaunchScreen.storyboard */,
@@ -241,6 +244,7 @@
 			files = (
 				E49C1A07261F514000300AD2 /* LaunchScreen.storyboard in Resources */,
 				E49C1A04261F514000300AD2 /* Assets.xcassets in Resources */,
+				E43FB77E26285C1400C8F428 /* test.txt in Resources */,
 				E49C1A02261F513F00300AD2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -444,6 +448,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8T284JCWV7;
 				INFOPLIST_FILE = BAmmapTest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -462,6 +467,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8T284JCWV7;
 				INFOPLIST_FILE = BAmmapTest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

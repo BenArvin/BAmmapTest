@@ -1,0 +1,1 @@
+2021-04-15 19:39:26.045995+0800 BAmmapTest[38050:4091253] path: /Users/benarvin/Library/Developer/CoreSimulator/Devices/7881DBC1-C7FC-4503-8ABA-90AA6C618B63/data/Containers/Data/Application/8A6560E0-35AE-4D06-AEA4-4F56E0A49916/test.txt
